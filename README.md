@@ -19,7 +19,7 @@ python main.py
 To run the model with specific parameter values:
 ```
 # run RTN_norm model with code rate 7/28, A = 3.0, and 0.2 fading:
-python main.py -m RTN_norm -k 7 -L 28 -A 3.0 -f True -fs 0.2
+python main.py -k 7 -L 28 -A 3.0 -f True -fs 0.2
 ```
 All available parameters can be listed using the following command:
 ```
